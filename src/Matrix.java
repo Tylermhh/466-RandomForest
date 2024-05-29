@@ -1,6 +1,3 @@
-package DocumentClasses;
-
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class Matrix {
