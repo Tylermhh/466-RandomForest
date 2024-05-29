@@ -10,7 +10,7 @@ import java.util.Map;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main (String[] args){
-        Matrix data = new Matrix(process("./data.txt"));
+        Matrix data = new Matrix(process("D:\\College\\Com Sci\\Junior Year\\466\\RandomForest\\src\\data.txt"));
         System.out.println(data);
 //        ArrayList<Integer> rows = new ArrayList<>();
 //        rows.add(0);
